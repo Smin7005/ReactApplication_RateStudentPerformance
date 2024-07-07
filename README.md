@@ -2,7 +2,7 @@
 
 # Rate Students Performance
 
-This project is built with Vite + React. It includes features for mentor registration, login, and rating students' performance.The main users of this website are mentors. After creating an account, mentors can
+This project is built with Vite + React. It includes features for sign up, log in, and rating students' performance.The main users of this website are mentors. After creating an account, mentors can
 generate reports on student performance by writing overall comments and scoring them based on 6 criteria.
 
 ## Project Structure
